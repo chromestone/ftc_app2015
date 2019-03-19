@@ -1,8 +1,13 @@
-Framework comes from https://github.com/ftctechnh/ftc_app
+# This is a fork
+Framework comes from:
 
-implementations (https://github.com/chromestone/ftc_app2015/tree/master/FtcRobotController/src/main/java/com/qualcomm/ftcrobotcontroller/opmodes/qorobotics)
+https://github.com/ftctechnh/ftc_app
 
-#ftc_app
+Implementations:
+
+https://github.com/chromestone/ftc_app2015/tree/master/FtcRobotController/src/main/java/com/qualcomm/ftcrobotcontroller/opmodes/qorobotics
+
+# ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
 
 This is the FTC SDK that can be used to create an FTC Robot Controller app, with custom op modes.
